@@ -1,0 +1,25 @@
+html{
+    background-color: #323232;
+}
+.my-container{
+    width:960px;
+    margin:auto;
+}
+nav{
+    background-color: #212121;
+}
+.firstBlock{
+    height:360px;
+}
+.para-content{
+    color:#cbcbcb;
+    background-color: #ececec;
+}
+.mycards{
+    width:215px;
+    height:315px;
+    color:white;
+}
+footer{
+    background-color: #212121;
+}
